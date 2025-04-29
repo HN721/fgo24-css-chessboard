@@ -1,6 +1,6 @@
 # ChessBoard
 
-This repository creates a static chessboard using HTML <table>, styled appropriately, and prepared for future interactions.
+This repository creates a static chessboard using HTML and CSS Internal , styled appropriately, and prepared for future interactions.
 
 ## Preview
 
@@ -11,7 +11,7 @@ This repository creates a static chessboard using HTML <table>, styled appropria
 1. Clone this repository:
 
    ```bash
-   git clone "https://github.com/HN721/fgo24-html-chessboard.git"
+   git clone "https://github.com/HN721/fgo24-css-chessboard.git"
    ```
 
 2. Install dependencies:
